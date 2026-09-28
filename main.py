@@ -33,4 +33,3 @@ await client.start()
 print("Бот працює і слухає канали!")
 await client.run_until_disconnected()
 
-!pip install telethon
